@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 255｜Travel Keepsake Stamp: seals the key subject of a photo inside one small vintage travel stamp that is the whole idea of the image, not a decorative frame — a simplified, symbolic hand-drawn subject in limited colour blocks, coloured pencil and wax crayon texture, slightly wobbly lines and colour that strays past the edges, paper grain and gentle screen-print unevenness, a warm palette of cream, warm beige, misty blue, plant green, brick orange, coral red and soft yellow from the photo, the stamp centred, off-centre or cropped in a very large field of paper, with small stamp text or handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-255 or asks for a vintage travel stamp, postage-stamp or travel-ephemera illustration from a photo.",
+  "short_description": "旅行纪念邮：把照片里的瞬间封进一枚小小的旅行纪念邮票，四周是超级留白",
+  "zh-CN": {
+    "name": "旅行纪念邮",
+    "tagline": "把照片里的瞬间封进一枚小小的旅行纪念邮票，四周是大片空白纸面。",
+    "look": "照片里最能认出身份的那个主体被收进一枚复古旅行邮票里，邮票本身就是整张图的主角，不是装饰边框。邮票里的主体被简化成符号化的手绘形体，用有限色块、彩铅和蜡笔画成，线条轻微抖动，颜色偶尔越出边界，留着纸纹、纸纤维和丝网印刷的不均匀。颜色从照片取，改成奶油白、暖米、雾蓝、植物绿、砖橙、珊瑚红、柔黄这样温暖柔和的几种。邮票很小，可以居中、偏心、贴边或被轻微裁切，四周是大片空白纸面。邮票上有小小的面值、地名式文字，旁边可以有一句手写注释。",
+    "traits": ["旅行邮票", "复古插画", "小尺度收藏", "彩铅蜡笔", "超级留白", "私人记忆"],
+    "good": [
+      "有地方特色的地标或建筑：一座钟楼、一座红色小桥、海边灯塔",
+      "旅途里有代表性的单个对象：一碗当地面、一只海鸥、一辆有轨电车、一朵野花",
+      "想做成旅行纪念、明信片或手账收藏的照片"
+    ],
+    "poor": [
+      "想完整呈现整片风景或很多对象的照片，只会剩邮票里的一个锚点",
+      "需要大尺寸、细节清楚的画面，这里主体被收得很小",
+      "想要光滑数字插画、卡通感或商业明信片模板的效果"
+    ]
+  },
+  "en": {
+    "name": "Travel Keepsake Stamp",
+    "tagline": "Seals a moment from your photo inside one small travel keepsake stamp, in a wide field of blank paper.",
+    "look": "The subject that best identifies the photo is placed inside a vintage travel stamp, and the stamp itself is the point of the image, not a decorative frame. Inside, the subject is simplified into a symbolic hand-drawn form in limited colour blocks, coloured pencil and wax crayon, with slightly wobbly lines, colour that occasionally strays past the edges, paper grain and fibres, and gentle screen-print unevenness. Colours come from the photo and become a few warm, soft ones such as cream, warm beige, misty blue, plant green, brick orange, coral red and soft yellow. The stamp is small and may sit centred, off-centre, against the edge or slightly cropped, in a wide field of blank paper. It carries tiny denomination or place-name style text, and a handwritten note can sit beside it.",
+    "traits": ["Travel stamp", "Vintage illustration", "Small collectible", "Coloured pencil and crayon", "Vast white space", "Private memory"],
+    "good": [
+      "Landmarks or buildings with local character: a clock tower, a small red bridge, a seaside lighthouse",
+      "A single object that sums up a trip: a bowl of local noodles, a seagull, a tram, a wildflower",
+      "Photos you want as a travel keepsake, postcard or journal collectible"
+    ],
+    "poor": [
+      "Photos where you want the whole view or many objects shown; only one anchor fits in the stamp",
+      "Needs for a large, detailed image; the subject is kept very small",
+      "Requests for smooth digital illustration, a cartoon look or a commercial postcard template"
+    ]
+  },
+  "ja": {
+    "name": "旅の記念切手",
+    "tagline": "写真の一瞬を小さな旅の記念切手に封じ込めます。まわりは広い白い紙面です。",
+    "look": "写真をいちばんよく表す主役を、一枚のレトロな旅の切手の中に収めます。切手そのものが絵の主役で、飾りの枠ではありません。切手の中の主役は記号的な手描きの形に簡略化され、限られた色面、色鉛筆、クレヨンで描かれます。線はわずかに揺れ、色はときどき輪郭からはみ出し、紙の目や繊維、シルクスクリーンのようなむらも残ります。色は写真から取り、生成り、温かいベージュ、霧のような青、草の緑、レンガ色のオレンジ、コーラルレッド、やわらかな黄色など、温かく穏やかな数色にします。切手は小さく、中央でも、ずらしても、端に寄せても、少し切れてもよく、まわりは広い白い紙面です。額面や地名のような小さな文字が入り、そばに手書きの一言を添えることもできます。",
+    "traits": ["旅の切手", "レトロなイラスト", "小さなコレクション", "色鉛筆とクレヨン", "広大な余白", "個人的な記憶"],
+    "good": [
+      "その土地らしいランドマークや建物：時計塔、小さな赤い橋、海辺の灯台",
+      "旅を象徴する一つのもの：ご当地の麺、カモメ、路面電車、野の花",
+      "旅の記念、ポストカード、手帳のコレクションにしたい写真"
+    ],
+    "poor": [
+      "風景全体や多くのものを見せたい写真（切手に収まるのは要となる一つだけです）",
+      "大きくて細部のはっきりした絵が必要な場合（主役はとても小さくなります）",
+      "なめらかなデジタルイラスト、アニメ調、商業的なポストカードのテンプレートを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여행 기념 우표",
+    "tagline": "사진 속 한순간을 작은 여행 기념 우표 안에 담습니다. 둘레는 넓은 빈 종이입니다.",
+    "look": "사진을 가장 잘 알려 주는 주인공을 레트로 여행 우표 한 장 안에 넣습니다. 우표 자체가 그림의 주인공이며, 장식 테두리가 아닙니다. 우표 속 주인공은 상징적인 손그림 형태로 단순화되어 한정된 색면, 색연필, 크레용으로 그려지고, 선은 살짝 떨리며 색은 가끔 윤곽 밖으로 번지고, 종이 결과 섬유, 실크스크린 같은 얼룩이 남습니다. 색은 사진에서 가져와 크림색, 따뜻한 베이지, 안개 낀 파랑, 풀빛 초록, 벽돌색 주황, 코랄 레드, 연노랑처럼 따뜻하고 부드러운 몇 가지로 바꿉니다. 우표는 작고, 가운데에 두거나 비켜 두거나 가장자리에 붙이거나 살짝 잘려도 되며, 둘레는 넓은 빈 종이입니다. 액면가나 지명 같은 작은 글씨가 들어가고 옆에 손글씨 메모를 둘 수 있습니다.",
+    "traits": ["여행 우표", "레트로 일러스트", "작은 소장품", "색연필과 크레용", "아주 넓은 여백", "개인적인 기억"],
+    "good": [
+      "그 지역다운 랜드마크나 건물: 시계탑, 작은 빨간 다리, 바닷가 등대",
+      "여행을 대표하는 대상 하나: 그 지역 국수 한 그릇, 갈매기, 노면전차, 들꽃",
+      "여행 기념품, 엽서, 다이어리 소장용으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "풍경 전체나 여러 대상을 보여 주고 싶은 사진(우표에는 핵심 하나만 들어갑니다)",
+      "크고 세부가 또렷한 그림이 필요한 경우(주인공이 아주 작게 들어갑니다)",
+      "매끈한 디지털 일러스트, 만화풍, 상업용 엽서 템플릿을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طابع تذكار السفر",
+    "tagline": "يحفظ لحظة من صورتك داخل طابع صغير لتذكار سفر، يحيط به فراغ واسع من الورق.",
+    "look": "يوضع العنصر الذي يعرّف الصورة أكثر من غيره داخل طابع سفر قديم الطراز، والطابع نفسه هو فكرة الصورة لا إطاراً للزينة. في داخله يُبسَّط العنصر إلى شكل رمزي مرسوم باليد بكتل لونية محدودة وأقلام ملوّنة وطباشير شمعي، بخطوط ترتعش قليلاً وألوان تتجاوز الحدود أحياناً، مع حبيبات الورق وأليافه وعدم انتظام لطيف كطباعة الشاشة الحريرية. تُؤخذ الألوان من الصورة وتتحول إلى ألوان قليلة دافئة ناعمة مثل الكريمي والبيج الدافئ والأزرق الضبابي وأخضر النبات والبرتقالي الطوبي والأحمر المرجاني والأصفر الناعم. الطابع صغير، وقد يقع في الوسط أو بعيداً عنه أو ملاصقاً للحافة أو مقتطعاً قليلاً، في مساحة واسعة من الورق الفارغ. يحمل نصاً صغيراً كقيمة الطابع أو اسم المكان، ويمكن أن تجاوره ملاحظة بخط اليد.",
+    "traits": ["طابع سفر", "رسم قديم الطراز", "مقتنى صغير", "أقلام ملوّنة وطباشير شمعي", "فراغ أبيض شاسع", "ذكرى شخصية"],
+    "good": [
+      "معالم أو مبانٍ ذات طابع محلي: برج ساعة، جسر أحمر صغير، منارة على الشاطئ",
+      "شيء واحد يختصر الرحلة: طبق معكرونة محلي، نورس، ترام، زهرة برية",
+      "صور تريدها تذكار سفر أو بطاقة بريدية أو قطعة في دفتر يومياتك"
+    ],
+    "poor": [
+      "صور تريد عرض المنظر كله أو أشياء كثيرة فيها؛ لا يتسع الطابع إلا لعنصر واحد",
+      "الحاجة إلى صورة كبيرة واضحة التفاصيل؛ فالعنصر يبقى صغيراً جداً",
+      "طلب رسم رقمي أملس أو مظهر كرتوني أو قالب بطاقة بريدية تجارية"
+    ]
+  }
+}

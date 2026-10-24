@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 255"
-  short_description: "旅行纪念邮：上半保留原照，下半把瞬间封进一枚小邮票和超级留白"
-  default_prompt: "Use $xxd-panel-255 to transform my photograph following the complete canonical source brief."
+  short_description: "旅行纪念邮：把照片里的瞬间封进一枚小小的旅行纪念邮票，四周是超级留白"
+  default_prompt: "Use $xxd-panel-255 to turn my photo into Travel Keepsake Stamp artwork."

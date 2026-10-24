@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-255
-description: "Create XXD Panel 255 raster artwork: a faithful photograph paired with a small vintage travel-stamp illustration that seals a private memory inside a wide paper field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-255 or asks for this 旅行纪念邮 style."
+description: "XXD Panel 255｜Travel Keepsake Stamp: seals the key subject of a photo inside one small vintage travel stamp that is the whole idea of the image, not a decorative frame — a simplified, symbolic hand-drawn subject in limited colour blocks, coloured pencil and wax crayon texture, slightly wobbly lines and colour that strays past the edges, paper grain and gentle screen-print unevenness, a warm palette of cream, warm beige, misty blue, plant green, brick orange, coral red and soft yellow from the photo, the stamp centred, off-centre or cropped in a very large field of paper, with small stamp text or handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-255 or asks for a vintage travel stamp, postage-stamp or travel-ephemera illustration from a photo."
 ---
 
 # XXD Panel 255
